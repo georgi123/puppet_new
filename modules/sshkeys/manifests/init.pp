@@ -1,0 +1,3 @@
+class sshkeys {
+include keys
+}
